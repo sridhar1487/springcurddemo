@@ -19,6 +19,8 @@ public class Home {
 		l.add("sridhar2");
 		l.add("sridhar4");
 		l.add("sridhar5");
+		l.add("sridhar6");
+		l.add("sridhar7");
 			
 		return l;
 	}
